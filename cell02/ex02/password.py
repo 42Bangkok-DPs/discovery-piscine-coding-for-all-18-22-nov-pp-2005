@@ -1,5 +1,3 @@
-#!/bin/python3
-
 password = "Python is awesome"
 
 if input() == password:
