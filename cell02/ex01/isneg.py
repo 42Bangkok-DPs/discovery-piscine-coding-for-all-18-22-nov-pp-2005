@@ -1,3 +1,5 @@
+#!python "C:\MinGW\discovery_piscine\discovery-piscine-coding-for-all-18-22-nov-pp-2005"
+
 num = int(input())
 
 if num<0:
