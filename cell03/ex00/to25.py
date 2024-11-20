@@ -1,6 +1,6 @@
 #!/bin/python3
 
-num = int(input())
+num = int(input("Enter a number less than 25\n"))
 
 if num <= 25:
     for i in range(num,26):
