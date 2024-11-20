@@ -1,3 +1,5 @@
+#!/bin/python3
+
 num = int(input())
 
 if num <= 25:

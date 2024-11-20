@@ -1,4 +1,4 @@
-#!python "C:\MinGW\discovery_piscine\discovery-piscine-coding-for-all-18-22-nov-pp-2005"
+#!/bin/python3
 
 num = int(input())
 

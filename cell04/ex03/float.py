@@ -1,3 +1,5 @@
+#!/bin/python3
+
 x = input("Give me a number: ")
 
 try:

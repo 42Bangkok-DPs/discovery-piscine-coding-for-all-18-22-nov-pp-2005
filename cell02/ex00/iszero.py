@@ -1,3 +1,5 @@
+#!/bin/python3
+
 a = int(input())
 
 if a==0:
